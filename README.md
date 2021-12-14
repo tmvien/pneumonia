@@ -1,5 +1,5 @@
 # Chest X-rays Image Classification - Pneumonia
-My Vien (mvien27@gmail.com)
+My Vien (mvien27@gmail.com)  
 Dec 13th, 2021
 
 X-rays are a form of electromagnetic radiation. Because X-rays can pass through most objects, they are used to create images of the inside of your body. 
